@@ -1,0 +1,25 @@
+# macOS and editors
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local dependencies and generated reports
+node_modules/
+coverage/
+playwright-report/
+test-results/
+*.log
+
+# Local environment values and Supabase CLI state
+.env
+.env.*
+!.env.example
+supabase/.temp/
+supabase/.branches/
+
+# docs/ is the authored GitHub Pages site: keep it tracked.
+# docs/supabase-config.js contains only the required public browser key.

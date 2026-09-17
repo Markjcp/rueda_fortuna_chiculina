@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ee5238">
+  <meta name="description" content="Una vuelta, una sorpresa y un poquito de buena onda para cada día.">
+  <title>La Chicu Rueda de la Buena Onda</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <div class="fair-strip" aria-hidden="true"></div>
+  <div class="app-shell">
+    <header><p class="eyebrow">KERMESSE EXCLUSIVA PARA CHICULINA</p><h1><span>La Chicu Rueda</span><small>de la <em>Buena Onda</em></small></h1><p class="season">16 SEP — 21 DIC <span>✦</span> EDICIÓN 2026</p></header>
+    <nav role="tablist" aria-label="La kermesse"><button id="wheel-tab" role="tab" aria-selected="true" aria-controls="wheel-panel">La rueda <span aria-hidden="true">✷</span></button><button id="album-tab" role="tab" aria-selected="false" aria-controls="album-panel" tabindex="-1">Mis sorpresas <span id="album-count">0</span></button></nav>
+    <main>
+      <div class="sound-toolbar"><button id="sound-toggle" class="sound-toggle" type="button" aria-label="Sonido de la rueda" aria-pressed="false" title="Activar sonido"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4Z"/><path class="sound-waves" d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/><path class="sound-muted" d="m16 9 5 6m0-6-5 6"/></svg><span class="sound-label">Activar sonido</span></button></div>
+      <section id="wheel-panel" role="tabpanel" aria-labelledby="wheel-tab">
+        <div class="game-layout">
+          <div class="wheel-stage"><div class="wheel-caption">¡QUE GIRE LA BUENA ONDA!</div><div class="wheel-wrap"><div class="pointer" aria-hidden="true"></div><svg id="wheel" viewBox="0 0 500 500" role="img" aria-label="Rueda con 83 números de sorpresas"></svg><div class="wheel-center" aria-hidden="true">CHICU<br><strong>✷</strong><br>CLUB</div></div><p class="wheel-foot">TODOS LOS NÚMEROS TIENEN SORPRESA</p></div>
+          <div class="ticket"><p class="eyebrow" id="today">TU RATITO DE SUERTE</p><h2>Hoy puede ser<br>un gran giro.</h2><div class="ticket-divider"></div><p id="availability" role="status" aria-live="polite">Preparando la rueda…</p><p id="bonus-note" class="secondary">Los lunes, una vuelta extra desde las 12 h.</p><button class="primary" id="spin" disabled>¡Girar la rueda! <span aria-hidden="true">↗</span></button><button class="test-button" id="test-spin" disabled>Probar sin gastar mi giro</button><p class="fine-print">La prueba no desbloquea sorpresas.</p><div class="ticket-divider"></div><p class="ticket-bottom"><strong id="remaining">83</strong> sorpresas por descubrir <span aria-hidden="true">✦</span></p></div>
+        </div>
+      </section>
+      <section id="album-panel" role="tabpanel" aria-labelledby="album-tab" hidden><div class="album-heading"><div><p class="eyebrow">TU COLECCIÓN DE BUENA ONDA</p><h2>Las que ya salieron.</h2></div><p id="collection-progress">0 de 83</p></div><p id="album-empty">Todavía no hay sorpresas abiertas. Tu primer giro inaugura la colección.</p><div id="cards" class="cards"></div></section>
+    </main>
+    <div class="cloud-bar"><p id="cloud-status" role="status" aria-live="polite">Conectando con la colección…</p><button id="refresh-cloud" class="test-button">Actualizar colección</button></div>
+    <footer><span>HECHO CON BUENA ONDA <span aria-hidden="true">✳</span></span><p>Una colección compartida en familia. Tus sorpresas quedan guardadas.</p></footer>
+  </div>
+  <dialog id="confirmation" aria-labelledby="confirm-title"><button class="close" aria-label="Cerrar" data-close>×</button><p class="eyebrow">ANTES DE GIRAR…</p><h2 id="confirm-title">¿Activamos la<br>buena onda?</h2><p>Una respiración, una sonrisa y que la suerte haga lo suyo.</p><form method="dialog"><button class="primary" id="confirm-spin" value="spin">Ya estoy despierta y con buena onda</button><button class="test-button" value="cancel">Un ratito más</button></form></dialog>
+  <dialog id="result" aria-labelledby="result-title"><button class="close" aria-label="Cerrar" data-close>×</button><p class="eyebrow" id="result-label"></p><div id="result-content"></div><button class="primary" data-close>¡Que siga la buena onda!</button></dialog>
+</body>
+</html>
