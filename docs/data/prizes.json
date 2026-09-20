@@ -2,540 +2,562 @@
   {
     "id": 1,
     "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "title": "Vamos a Cholita?",
+    "text": "Vale por un clasico Waffle con Nutella y frutillas (si ya fuiste esta semana pasa para la proxima)."
   },
   {
     "id": 2,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/002.svg",
+    "title": "familia elefante",
+    "image": "./assets/memes/familia_elefante.webp",
     "alt": "Imagen de ejemplo número 2: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 3,
-    "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "type": "meme",
+    "title": "tipos de persona en la ducha",
+    "image": "./assets/memes/tipos_de_persona_en_la_ducha.jpg",
+    "alt": ""
   },
   {
     "id": 4,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/004.svg",
+    "title": "sackboy",
+    "image": "./assets/memes/sackboy.webp",
     "alt": "Imagen de ejemplo número 4: hoy se sobrevive con estilo. Reemplazar por un meme."
   },
   {
     "id": 5,
-    "type": "prize",
-    "title": "Vale por una noche de pelis",
-    "text": "Elegís la película, el sillón y algo rico para picar. El plan queda en tus manos."
+    "type": "meme",
+    "title": "cono arana",
+    "image": "./assets/memes/cono_arana.jpeg",
+    "alt": ""
   },
   {
     "id": 6,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/006.svg",
+    "title": "familia perro",
+    "image": "./assets/memes/familia_perro.webp",
     "alt": "Imagen de ejemplo número 6: modo buena onda: activado. Reemplazar por un meme."
   },
   {
     "id": 7,
-    "type": "prize",
-    "title": "Vale por un mimo extra",
-    "text": "Un ratito para vos, sin pendientes y con mucho cariño. Válido cuando más lo necesites."
+    "type": "meme",
+    "title": "hora de flotar",
+    "image": "./assets/memes/hora_de_flotar.jpg",
+    "alt": ""
   },
   {
     "id": 8,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/008.svg",
+    "title": "rudos",
+    "image": "./assets/memes/rudos.webp",
     "alt": "Imagen de ejemplo número 8: un lunes con premio es menos lunes. Reemplazar por un meme."
   },
   {
     "id": 9,
-    "type": "prize",
-    "title": "Vale por tu comida favorita",
-    "text": "Hoy el menú lo elegís vos. Premio sujeto a muchas ganas de compartir algo rico."
+    "type": "meme",
+    "title": "pusheen gamer",
+    "image": "./assets/memes/pusheen_gamer.gif",
+    "alt": ""
   },
   {
     "id": 10,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/010.svg",
+    "title": "5 millones",
+    "image": "./assets/memes/5_millones.webp",
     "alt": "Imagen de ejemplo número 10: mi cara cuando gira la rueda. Reemplazar por un meme."
   },
   {
     "id": 11,
     "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "title": "Refresh de Play",
+    "text": "30 minutos extra de Play, a disfrutarlo desparramada en el sillon."
   },
   {
     "id": 12,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/012.svg",
+    "title": "la peor familia",
+    "image": "./assets/memes/la_peor_familia.jpg",
     "alt": "Imagen de ejemplo número 12: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 13,
-    "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "type": "meme",
+    "title": "hey",
+    "image": "./assets/memes/hey.jpg",
+    "alt": ""
   },
   {
     "id": 14,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/014.svg",
+    "title": "cual es tu favorito",
+    "image": "./assets/memes/cual_es_tu_favorito.jpg",
     "alt": "Imagen de ejemplo número 14: hoy se sobrevive con estilo. Reemplazar por un meme."
   },
   {
     "id": 15,
     "type": "prize",
-    "title": "Vale por una noche de pelis",
-    "text": "Elegís la película, el sillón y algo rico para picar. El plan queda en tus manos."
+    "title": "La carta por favor",
+    "text": "Vamos a un restaurant a eleccion. Tal vez con aranas, tal vez con juegos. Y siempre un buen postre."
   },
   {
     "id": 16,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/016.svg",
+    "title": "mini shopping",
+    "image": "./assets/memes/mini_shopping.jpeg",
     "alt": "Imagen de ejemplo número 16: modo buena onda: activado. Reemplazar por un meme."
   },
   {
     "id": 17,
     "type": "prize",
-    "title": "Vale por un mimo extra",
-    "text": "Un ratito para vos, sin pendientes y con mucho cariño. Válido cuando más lo necesites."
+    "title": "Un tiempito para una peli",
+    "text": "Peli a eleccion antes de las 19. Spiderman, Los Mitchels, vos elegis."
   },
   {
     "id": 18,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/018.svg",
+    "title": "ser un gato",
+    "image": "./assets/memes/ser_un_gato.jpg",
     "alt": "Imagen de ejemplo número 18: un lunes con premio es menos lunes. Reemplazar por un meme."
   },
   {
     "id": 19,
     "type": "prize",
-    "title": "Vale por tu comida favorita",
-    "text": "Hoy el menú lo elegís vos. Premio sujeto a muchas ganas de compartir algo rico."
+    "title": "Un tiempito para una peli 2",
+    "text": "Peli a eleccion antes de las 19. Spiderman, Los Mitchels, vos elegis."
   },
   {
     "id": 20,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/020.svg",
+    "title": "no vamos a necesitar el monitor",
+    "image": "./assets/memes/no_vamos_a_necesitar_el_monitor.webp",
     "alt": "Imagen de ejemplo número 20: mi cara cuando gira la rueda. Reemplazar por un meme."
   },
   {
     "id": 21,
-    "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "type": "meme",
+    "title": "familia venado",
+    "image": "./assets/memes/familia_venado.webp",
+    "alt": ""
   },
   {
     "id": 22,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/022.svg",
+    "title": "mejores lugares para dormir",
+    "image": "./assets/memes/mejores_lugares_para_dormir.jpg",
     "alt": "Imagen de ejemplo número 22: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 23,
-    "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "type": "meme",
+    "title": "los animales hablan en tu universo",
+    "image": "./assets/memes/los_animales_hablan_en_tu_universo.webp",
+    "alt": ""
   },
   {
     "id": 24,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/024.svg",
+    "title": "adorables",
+    "image": "./assets/memes/adorables.webp",
     "alt": "Imagen de ejemplo número 24: hoy se sobrevive con estilo. Reemplazar por un meme."
   },
   {
     "id": 25,
     "type": "prize",
-    "title": "Vale por una noche de pelis",
-    "text": "Elegís la película, el sillón y algo rico para picar. El plan queda en tus manos."
+    "title": "Con R de ...",
+    "text": "400 Robux!! Ya era hora de cambiar de outfit."
   },
   {
     "id": 26,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/026.svg",
+    "title": "gatito",
+    "image": "./assets/memes/gatito.webp",
     "alt": "Imagen de ejemplo número 26: modo buena onda: activado. Reemplazar por un meme."
   },
   {
     "id": 27,
-    "type": "prize",
-    "title": "Vale por un mimo extra",
-    "text": "Un ratito para vos, sin pendientes y con mucho cariño. Válido cuando más lo necesites."
+    "type": "meme",
+    "title": "puerco arana",
+    "image": "./assets/memes/puerco_arana.jpeg",
+    "alt": ""
   },
   {
     "id": 28,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/028.svg",
+    "title": "futbol",
+    "image": "./assets/memes/futbol.webp",
     "alt": "Imagen de ejemplo número 28: un lunes con premio es menos lunes. Reemplazar por un meme."
   },
   {
     "id": 29,
     "type": "prize",
-    "title": "Vale por tu comida favorita",
-    "text": "Hoy el menú lo elegís vos. Premio sujeto a muchas ganas de compartir algo rico."
+    "title": "Pazu!!",
+    "text": "Paquete de 5 dolares para Avatar World. Hora de jugar!!"
   },
   {
     "id": 30,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/030.svg",
+    "title": "te te",
+    "image": "./assets/memes/te_te.jpeg",
     "alt": "Imagen de ejemplo número 30: mi cara cuando gira la rueda. Reemplazar por un meme."
   },
   {
     "id": 31,
     "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "title": "OK Google, vamos a Kinderland",
+    "text": "Un regalo chiquito, tampoco abusarse eh."
   },
   {
     "id": 32,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/032.svg",
+    "title": "cuando estoy en el inodoro",
+    "image": "./assets/memes/cuando_estoy_en_el_inodoro.jpeg",
     "alt": "Imagen de ejemplo número 32: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 33,
-    "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "type": "meme",
+    "title": "un salto de fe",
+    "image": "./assets/memes/un_salto_de_fe.jpg",
+    "alt": ""
   },
   {
     "id": 34,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/034.svg",
+    "title": "Bananoxi",
+    "image": "./assets/memes/Bananoxi.webp",
     "alt": "Imagen de ejemplo número 34: hoy se sobrevive con estilo. Reemplazar por un meme."
   },
   {
     "id": 35,
     "type": "prize",
-    "title": "Vale por una noche de pelis",
-    "text": "Elegís la película, el sillón y algo rico para picar. El plan queda en tus manos."
+    "title": "Atencion garantizada",
+    "text": "Podes mostrarle 5 cosas de Roblox a papa y mama a cualquier hora (espero que no sea a la madrugada)."
   },
   {
     "id": 36,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/036.svg",
+    "title": "tocino",
+    "image": "./assets/memes/tocino.webp",
     "alt": "Imagen de ejemplo número 36: modo buena onda: activado. Reemplazar por un meme."
   },
   {
     "id": 37,
-    "type": "prize",
-    "title": "Vale por un mimo extra",
-    "text": "Un ratito para vos, sin pendientes y con mucho cariño. Válido cuando más lo necesites."
+    "type": "meme",
+    "title": "sin apuro",
+    "image": "./assets/memes/sin_apuro.jpeg",
+    "alt": ""
   },
   {
     "id": 38,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/038.svg",
+    "title": "me equivoque",
+    "image": "./assets/memes/me_equivoque.webp",
     "alt": "Imagen de ejemplo número 38: un lunes con premio es menos lunes. Reemplazar por un meme."
   },
   {
     "id": 39,
-    "type": "prize",
-    "title": "Vale por tu comida favorita",
-    "text": "Hoy el menú lo elegís vos. Premio sujeto a muchas ganas de compartir algo rico."
+    "type": "meme",
+    "title": "no lo hagas miles",
+    "image": "./assets/memes/no_lo_hagas_miles.jpg",
+    "alt": ""
   },
   {
     "id": 40,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/040.svg",
+    "title": "pues",
+    "image": "./assets/memes/pues.jpeg",
     "alt": "Imagen de ejemplo número 40: mi cara cuando gira la rueda. Reemplazar por un meme."
   },
   {
     "id": 41,
     "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "title": "Permiso para comida chatarra",
+    "text": "Hoy podes comer una Maruchan!!"
   },
   {
     "id": 42,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/042.svg",
+    "title": "pense que era el unico",
+    "image": "./assets/memes/pense_que_era_el_unico.webp",
     "alt": "Imagen de ejemplo número 42: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 43,
-    "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "type": "meme",
+    "title": "mabel jefa",
+    "image": "./assets/memes/mabel_jefa.jpg",
+    "alt": ""
   },
   {
     "id": 44,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/044.svg",
+    "title": "mis amigos",
+    "image": "./assets/memes/mis_amigos.jpg",
     "alt": "Imagen de ejemplo número 44: hoy se sobrevive con estilo. Reemplazar por un meme."
   },
   {
     "id": 45,
-    "type": "prize",
-    "title": "Vale por una noche de pelis",
-    "text": "Elegís la película, el sillón y algo rico para picar. El plan queda en tus manos."
+    "type": "meme",
+    "title": "figurita pusheen",
+    "image": "./assets/memes/figurita_pusheen.jpg",
+    "alt": ""
   },
   {
     "id": 46,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/046.svg",
+    "title": "familia conejo",
+    "image": "./assets/memes/familia_conejo.jpg",
     "alt": "Imagen de ejemplo número 46: modo buena onda: activado. Reemplazar por un meme."
   },
   {
     "id": 47,
-    "type": "prize",
-    "title": "Vale por un mimo extra",
-    "text": "Un ratito para vos, sin pendientes y con mucho cariño. Válido cuando más lo necesites."
+    "type": "meme",
+    "title": "mi cara",
+    "image": "./assets/memes/mi_cara.jpg",
+    "alt": ""
   },
   {
     "id": 48,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/048.svg",
+    "title": "cucarachoxi",
+    "image": "./assets/memes/cucarachoxi.webp",
     "alt": "Imagen de ejemplo número 48: un lunes con premio es menos lunes. Reemplazar por un meme."
   },
   {
     "id": 49,
-    "type": "prize",
-    "title": "Vale por tu comida favorita",
-    "text": "Hoy el menú lo elegís vos. Premio sujeto a muchas ganas de compartir algo rico."
+    "type": "meme",
+    "title": "ojos de terodactilo",
+    "image": "./assets/memes/ojos_de_terodactilo.webp",
+    "alt": ""
   },
   {
     "id": 50,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/050.svg",
+    "title": "mini chef",
+    "image": "./assets/memes/mini_chef.jpg",
     "alt": "Imagen de ejemplo número 50: mi cara cuando gira la rueda. Reemplazar por un meme."
   },
   {
     "id": 51,
-    "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "type": "meme",
+    "title": "mayday",
+    "image": "./assets/memes/mayday.jpeg",
+    "alt": ""
   },
   {
     "id": 52,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/052.svg",
+    "title": "pizza",
+    "image": "./assets/memes/pizza.jpg",
     "alt": "Imagen de ejemplo número 52: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 53,
-    "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "type": "meme",
+    "title": "esto es extrano",
+    "image": "./assets/memes/esto_es_extrano.jpg",
+    "alt": ""
   },
   {
     "id": 54,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/054.svg",
+    "title": "mi cena",
+    "image": "./assets/memes/mi_cena.jpg",
     "alt": "Imagen de ejemplo número 54: hoy se sobrevive con estilo. Reemplazar por un meme."
   },
   {
     "id": 55,
-    "type": "prize",
-    "title": "Vale por una noche de pelis",
-    "text": "Elegís la película, el sillón y algo rico para picar. El plan queda en tus manos."
+    "type": "meme",
+    "title": "no sigo ordenes y el tampoco",
+    "image": "./assets/memes/no_sigo_ordenes_y_el_tampoco.png",
+    "alt": ""
   },
   {
     "id": 56,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/056.svg",
+    "title": "familia pajaro",
+    "image": "./assets/memes/familia_pajaro.png",
     "alt": "Imagen de ejemplo número 56: modo buena onda: activado. Reemplazar por un meme."
   },
   {
     "id": 57,
-    "type": "prize",
-    "title": "Vale por un mimo extra",
-    "text": "Un ratito para vos, sin pendientes y con mucho cariño. Válido cuando más lo necesites."
+    "type": "meme",
+    "title": "inodorito",
+    "image": "./assets/memes/inodorito.jpg",
+    "alt": ""
   },
   {
     "id": 58,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/058.svg",
+    "title": "igualitos",
+    "image": "./assets/memes/igualitos.webp",
     "alt": "Imagen de ejemplo número 58: un lunes con premio es menos lunes. Reemplazar por un meme."
   },
   {
     "id": 59,
-    "type": "prize",
-    "title": "Vale por tu comida favorita",
-    "text": "Hoy el menú lo elegís vos. Premio sujeto a muchas ganas de compartir algo rico."
+    "type": "meme",
+    "title": "elegante",
+    "image": "./assets/memes/elegante.jpg",
+    "alt": ""
   },
   {
     "id": 60,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/060.svg",
+    "title": "familia pinguino",
+    "image": "./assets/memes/familia_pinguino.jpg",
     "alt": "Imagen de ejemplo número 60: mi cara cuando gira la rueda. Reemplazar por un meme."
   },
   {
     "id": 61,
-    "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "type": "meme",
+    "title": "patas para arriba",
+    "image": "./assets/memes/patas_para_arriba.png",
+    "alt": ""
   },
   {
     "id": 62,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/062.svg",
+    "title": "beso de monchi",
+    "image": "./assets/memes/beso_de_monchi.jpeg",
     "alt": "Imagen de ejemplo número 62: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 63,
     "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "title": "Dia de pereza",
+    "text": "No tenes que sacar el tupper ni levantar los platos. Papa se encarga (solo por hoy)."
   },
   {
     "id": 64,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/064.svg",
+    "title": "verano",
+    "image": "./assets/memes/verano.jpg",
     "alt": "Imagen de ejemplo número 64: hoy se sobrevive con estilo. Reemplazar por un meme."
   },
   {
     "id": 65,
     "type": "prize",
-    "title": "Vale por una noche de pelis",
-    "text": "Elegís la película, el sillón y algo rico para picar. El plan queda en tus manos."
+    "title": "Corazon nutelloso",
+    "text": "Podes comer algo con Nutella (si comiste el dia anterior se pasa para el proximo)."
   },
   {
     "id": 66,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/066.svg",
+    "title": "virus",
+    "image": "./assets/memes/virus.jpg",
     "alt": "Imagen de ejemplo número 66: modo buena onda: activado. Reemplazar por un meme."
   },
   {
     "id": 67,
     "type": "prize",
-    "title": "Vale por un mimo extra",
-    "text": "Un ratito para vos, sin pendientes y con mucho cariño. Válido cuando más lo necesites."
+    "title": "Tu arte a la tableta",
+    "text": "Te ganaste un lapiz electronico para el iPad."
   },
   {
     "id": 68,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/068.svg",
+    "title": "de nada",
+    "image": "./assets/memes/de_nada.jpg",
     "alt": "Imagen de ejemplo número 68: un lunes con premio es menos lunes. Reemplazar por un meme."
   },
   {
     "id": 69,
     "type": "prize",
-    "title": "Vale por tu comida favorita",
-    "text": "Hoy el menú lo elegís vos. Premio sujeto a muchas ganas de compartir algo rico."
+    "title": "Tiempo de arte",
+    "text": "Podes elegir algo de una libreria. Que sera?"
   },
   {
     "id": 70,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/070.svg",
+    "title": "Roxisaurio",
+    "image": "./assets/memes/Roxisaurio.webp",
     "alt": "Imagen de ejemplo número 70: mi cara cuando gira la rueda. Reemplazar por un meme."
   },
   {
     "id": 71,
     "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "title": "De Pinterest al mundo",
+    "text": "Podes comprar una remera estampada con un diseno de Pinterest."
   },
   {
     "id": 72,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/072.svg",
+    "title": "incomodando",
+    "image": "./assets/memes/incomodando.jpeg",
     "alt": "Imagen de ejemplo número 72: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 73,
     "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "title": "Para que me alcanza?",
+    "text": "Visita al kiosco, papi invita."
   },
   {
     "id": 74,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/074.svg",
+    "title": "hemanita hermanota",
+    "image": "./assets/memes/hemanita_hermanota.jpg",
     "alt": "Imagen de ejemplo número 74: hoy se sobrevive con estilo. Reemplazar por un meme."
   },
   {
     "id": 75,
     "type": "prize",
-    "title": "Vale por una noche de pelis",
-    "text": "Elegís la película, el sillón y algo rico para picar. El plan queda en tus manos."
+    "title": "Sacaras la sortija?",
+    "text": "Vale por 3 vueltas de calesita, aprovecha que todavia podes."
   },
   {
     "id": 76,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/076.svg",
+    "title": "usa las palmas",
+    "image": "./assets/memes/usa_las_palmas.jpeg",
     "alt": "Imagen de ejemplo número 76: modo buena onda: activado. Reemplazar por un meme."
   },
   {
     "id": 77,
-    "type": "prize",
-    "title": "Vale por un mimo extra",
-    "text": "Un ratito para vos, sin pendientes y con mucho cariño. Válido cuando más lo necesites."
+    "type": "meme",
+    "title": "guarda que pincha",
+    "image": "./assets/memes/guarda_que_pincha.webp",
+    "alt": ""
   },
   {
     "id": 78,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/078.svg",
+    "title": "crash",
+    "image": "./assets/memes/crash.webp",
     "alt": "Imagen de ejemplo número 78: un lunes con premio es menos lunes. Reemplazar por un meme."
   },
   {
     "id": 79,
     "type": "prize",
-    "title": "Vale por tu comida favorita",
-    "text": "Hoy el menú lo elegís vos. Premio sujeto a muchas ganas de compartir algo rico."
+    "title": "Habia una vez...",
+    "text": "Vamos a una libreria a elegir un libro, el que vos quieras."
   },
   {
     "id": 80,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/080.svg",
+    "title": "mil dias",
+    "image": "./assets/memes/mil_dias.jpg",
     "alt": "Imagen de ejemplo número 80: mi cara cuando gira la rueda. Reemplazar por un meme."
   },
   {
     "id": 81,
     "type": "prize",
-    "title": "Vale por un desayuno rico",
-    "text": "Se le otorga a Chiculina un desayuno a su gusto, con algo rico y cero apuro."
+    "title": "A tirar los dados",
+    "text": "Podes elegir un juego de mesa nuevo."
   },
   {
     "id": 82,
     "type": "meme",
-    "title": "Una dosis de risa",
-    "image": "./assets/memes/082.svg",
+    "title": "spider meme",
+    "image": "./assets/memes/spider_meme.png",
     "alt": "Imagen de ejemplo número 82: yo, antes del café. Reemplazar por un meme."
   },
   {
     "id": 83,
     "type": "prize",
-    "title": "Diploma de reina de la buena onda",
-    "text": "Por hacer que los días comunes tengan algo especial. Este aplauso es todo tuyo."
+    "title": "Espero que no explote",
+    "text": "Vamos a comer un postre, el preferido: Volcan de chocolate."
   }
 ]
